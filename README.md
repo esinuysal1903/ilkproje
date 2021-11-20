@@ -1,0 +1,2 @@
+# ilkproje
+İlk projemi oluşturuyorum 
